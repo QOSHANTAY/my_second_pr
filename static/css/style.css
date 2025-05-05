@@ -1,0 +1,28 @@
+img{
+    width: 700px;
+    border-radius: 20px;
+}
+
+body{
+    text-align: center;
+    background: linear-gradient(60deg, #6e00fd,#5d00d7,#4d00b1,#3e008f,#29005f,#1c0041);
+}
+h1{
+    background:linear-gradient(60deg,#008a64,#00618a);
+    border-radius: 10px;
+    color:#90C67C;
+}
+
+#pub_date_p{
+    height: 50px;
+    background-color: #FF9149;
+    color: #5dd9b7;
+    border-radius: 10px;
+}
+#category_p{
+    background: linear-gradient(to left,#ecff00,#ff9f00);
+}
+
+#inf{
+    background: linear-gradient(to right ,#b8ffec,#cfcfcf);
+}
